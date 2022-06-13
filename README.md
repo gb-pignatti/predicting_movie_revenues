@@ -3,11 +3,16 @@
 # **PREDICTING MOVIES' BOX OFFICE REVENUES**
 
 ## Table of Contents
-1. Introduction
-2. Project Objective
-3. About the Data
-4. Project Overview
-5. Conclusion
+1. How to Access the Project
+2. Introduction
+3. Project Objective
+4. About the Data
+5. Project Overview
+6. Conclusion
+
+## How to Access the Project
+
+To obtain the best rendering results and make sure all the internal links work properly, it is recommended to open the provided notebook using the [Jupyter nbviewer](https://nbviewer.org/) service. A direct link to the notebook rendered this way is provided clicking [here](https://nbviewer.org/github/gb-pignatti/Predicting_Movies_Revenues/blob/main/predicting_movies_revenues.ipynb).
 
 ## Introduction
 
