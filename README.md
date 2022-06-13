@@ -1,6 +1,6 @@
 ![Cover](images/cover_image.png)
 
-# **PREDICTING MOVIES BOX OFFICE REVENUES**
+# **PREDICTING MOVIES' BOX OFFICE REVENUES**
 
 ## Table of Contents
 1. Introduction
