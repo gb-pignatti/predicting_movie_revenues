@@ -1,6 +1,6 @@
 ![Cover](images/cover_image.png)
 
-# **PREDICTING MOVIES' BOX OFFICE REVENUES**
+# **PREDICTING MOVIE BOX OFFICE REVENUES**
 
 ## Table of Contents
 1. How to Access the Project
@@ -23,7 +23,7 @@ makes movies so attractive. Beneath this romantic view, however, we need to keep
 
 ## Project Objective
 
-In this project we use machine-learning modeling to predict movies' box office gross revenues; to reach this goal, we rely on information such as movies' budget, genres, release date and popularity. 
+In this project we use machine-learning modeling to predict movie box office gross revenues; to reach this goal, we rely on features such as budgets, genres, release date and popularity. 
 
 Along the way, through data wrangling and exploratory analysis, we unveil interesting statistical facts involving movies. By the end of the project, we have a clear idea of what are the factors that more greatly influence the revenue of a film.   
 
@@ -36,14 +36,14 @@ To train our models we use a variety of metadata about 3,000 different movies. T
 The project is divided into 3 main steps:
 - **Step 1**: *Loading the Data and Identifying the Target Variable*.
 - **Step 2**: *Data Wrangling, Exploratory Analysis and Feature Engineering*: this is the most extensive part and it is functional to getting the data ready for modeling.
-- **Step 3**: *Predictive Modeling and Performance Evaluation*: here we actually train the regression models and predict the movies' revenues; models' performance is evaluated using the Logarithmic Root Mean Squared Error metric (LMSE).
+- **Step 3**: *Predictive Modeling and Performance Evaluation*: here we actually train the regression models and predict the movie revenues; models' performance is evaluated using the Logarithmic Root Mean Squared Error metric (LMSE).
 
 ## Conclusion
 
 After analyzing and visualizing the data, we found out that:
-- Movies revenues show a strong correlation with movies budgets.
+- Movie revenues show a strong correlation with movie budgets.
 - *The Avengers*, *Furious 7* and *Avengers: Age of Ultron* are the three movies with highest box office gross.
-- About 20% of the movies we have available are part of a collection/series. These kind of movies tend to have higher revenues.
+- About 20% of the movies we have available are part of a collection/series. This kind of movies tend to have higher revenues.
 - All movies we consider have been released between 1921 and 2017. The year with the most number of movie releases is 2013.
 - September, October and December are the most popular months for movie releases; Friday is the most popular day.
 - *Drama* is the most frequent genre, followed by *Comedy* and *Thriller*. The most profitable genres, however, are not necessarily the most frequent. Among the top ones we find *Adventure* and *Animation*; on the bottom there are *Foreign Movies*.
