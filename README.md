@@ -12,7 +12,7 @@
 
 ## How to Access the Project
 
-To obtain the best rendering results and make sure all the internal links work properly, it is recommended to open the provided notebook using the [Jupyter nbviewer](https://nbviewer.org/) service. A direct link to the notebook rendered this way is provided clicking [here](https://nbviewer.org/github/gb-pignatti/Predicting_Movies_Revenues/blob/main/predicting_movies_revenues.ipynb).
+To obtain the best rendering results and make sure all the internal links work properly, it is recommended to open the provided notebook using the [Jupyter nbviewer](https://nbviewer.org/) service. A direct link to the notebook rendered this way is provided clicking [here](https://nbviewer.org/github/gb-pignatti/predicting_movie_revenues/blob/main/predicting_movie_revenues.ipynb).
 
 ## Introduction
 
